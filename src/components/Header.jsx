@@ -76,10 +76,6 @@ const Header = () => {
           <HambugerMenu />
         </nav>
 
-        {/* <Button className="hidden lg:flex" href={links.sourceCode} external>
-          Source Code
-        </Button> */}
-
         <Button
           onClick={toggleNavigation}
           className="ml-auto lg:hidden"
