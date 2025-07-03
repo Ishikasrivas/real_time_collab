@@ -1,3 +1,3 @@
 export const links = {
-  sourceCode: "https://github.com/ishikasrivas/brainwave",
+  sourceCode: "https://github.com/ishikasrivas/RealTimeCollab",
 };
