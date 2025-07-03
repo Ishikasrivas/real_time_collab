@@ -12,34 +12,35 @@ export default {
     extend: {
       colors: {
         color: {
-          1: "#AC6AFF",
-          2: "#FFC876",
-          3: "#FF776F",
-          4: "#7ADB78",
-          5: "#858DFF",
-          6: "#FF98E2",
+          1: "#7c3aed", // deep purple
+          2: "#a3e635", // vibrant lime
+          3: "#fb923c", // soft orange
+          4: "#f472b6", // pink-400 (accent)
+          5: "#1e293b", // charcoal
+          6: "#f8fafc", // off-white
         },
         stroke: {
-          1: "#26242C",
+          1: "#e0e7ef", // light blue-gray
         },
         n: {
-          1: "#FFFFFF",
-          2: "#CAC6DD",
-          3: "#ADA8C3",
-          4: "#757185",
-          5: "#3F3A52",
-          6: "#252134",
-          7: "#15131D",
-          8: "#0E0C15",
-          9: "#474060",
-          10: "#43435C",
-          11: "#1B1B2E",
-          12: "#2E2A41",
-          13: "#6C7275",
+          1: "#f8fafc", // off-white
+          2: "#e5e7eb", // neutral-200
+          3: "#a3e635", // lime accent
+          4: "#7c3aed", // deep purple
+          5: "#fb923c", // soft orange
+          6: "#1e293b", // charcoal
+          7: "#0f172a", // dark charcoal
+          8: "#18181b", // near-black
+          9: "#f472b6", // pink accent
+          10: "#f1f5f9", // slate-100
+          11: "#cbd5e1", // slate-300
+          12: "#fef3c7", // amber-100
+          13: "#a3e635", // lime
         },
       },
       fontFamily: {
-        sans: ["var(--font-sora)", ...fontFamily.sans],
+        heading: ["var(--font-heading)", ...fontFamily.sans],
+        body: ["var(--font-body)", ...fontFamily.sans],
         code: "var(--font-code)",
         grotesk: "var(--font-grotesk)",
       },
@@ -73,7 +74,7 @@ export default {
       backgroundImage: {
         "radial-gradient": "radial-gradient(var(--tw-gradient-stops))",
         "conic-gradient":
-          "conic-gradient(from 225deg, #FFC876, #79FFF7, #9F53FF, #FF98E2, #FFC876)",
+          "conic-gradient(from 225deg, #a3e635, #fb923c, #7c3aed, #f472b6, #a3e635)",
         "benefit-card-1": "url(assets/benefits/card-1.svg)",
         "benefit-card-2": "url(assets/benefits/card-2.svg)",
         "benefit-card-3": "url(assets/benefits/card-3.svg)",
@@ -120,21 +121,6 @@ export default {
         },
         ".caption": {
           "@apply text-sm": {},
-        },
-        ".tagline": {
-          "@apply font-grotesk font-light text-xs tracking-tagline uppercase":
-            {},
-        },
-        ".quote": {
-          "@apply font-code text-lg leading-normal": {},
-        },
-        ".button": {
-          "@apply font-code text-xs font-bold uppercase tracking-wider": {},
-        },
-      });
-      addUtilities({
-        ".tap-highlight-color": {
-          "-webkit-tap-highlight-color": "rgba(0, 0, 0, 0)",
         },
       });
     }),

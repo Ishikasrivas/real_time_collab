@@ -1,7 +1,6 @@
 import Typewriter from "typewriter-effect";
 
 import {
-  brainwaveWhiteSymbol,
   gradient,
   loading,
   pause,
@@ -9,6 +8,7 @@ import {
 } from "../../assets";
 import ChatBubbleWing from "../../assets/svg/ChatBubbleWing";
 import { useEffect, useRef, useState } from "react";
+import realTimeCollabWhiteSymbol from "../../assets/realTimeCollab-symbol-white.svg";
 
 export const Gradient = () => {
   return (
@@ -30,11 +30,11 @@ export const PhotoChatMessage = () => {
       <Typewriter
         options={{
           strings: [
-            "Hey Brainwave, enhance this photo.",
-            "Hey Brainwave, give this photo a boost.",
-            "Brainwave, enhance the details in this photo.",
-            "Activate Brainwave mode to refine this photo.",
-            "Brainwave, apply your magic to this photo.",
+            "Hey RealTimeCollab, enhance this photo.",
+            "Hey RealTimeCollab, give this photo a boost.",
+            "RealTimeCollab, enhance the details in this photo.",
+            "Activate RealTimeCollab mode to refine this photo.",
+            "RealTimeCollab, apply your magic to this photo.",
           ],
           autoStart: true,
           loop: true,
@@ -59,10 +59,10 @@ export const VideoChatMessage = ({ isPlaying }) => {
       />
       <div className="absolute left-5 -bottom-[1.125rem] flex items-center justify-center w-[2.25rem] h-[2.25rem] bg-color-1 rounded-[0.75rem]">
         <img
-          src={brainwaveWhiteSymbol}
+          src={realTimeCollabWhiteSymbol}
           width={26}
           height={26}
-          alt="Brainwave"
+          alt="RealTimeCollab"
         />
       </div>
       <div className="tagline absolute right-2.5 bottom-1 text-[0.625rem] text-n-3 uppercase">

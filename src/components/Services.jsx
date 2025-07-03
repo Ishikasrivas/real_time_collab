@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { service1, service2, service3, check } from "../assets";
-import { brainwaveServices, brainwaveServicesIcons } from "../constants";
+import { realTimeCollabServices, realTimeCollabServicesIcons } from "../constants";
 import Generating from "./Generating";
 import Heading from "./Heading";
 import Section from "./Section";
@@ -34,7 +34,7 @@ const Services = () => {
               </span>
             </>
           }
-          text="Brainwave unlocks the potential of AI-powered applications."
+          text="RealTimeCollab unlocks the potential of AI-powered applications."
         />
 
         <div className="relative">
@@ -53,10 +53,10 @@ const Services = () => {
             <div className="relative z-1 max-w-[17rem] ml-auto">
               <h4 className="h4 mb-4">Smartest AI</h4>
               <p className="body-2 mb-[3rem] text-n-3">
-                Brainwave unlocks the potential of AI-powered applications.
+                RealTimeCollab unlocks the potential of AI-powered applications.
               </p>
               <ul className="body-2">
-                {brainwaveServices.map((item, i) => (
+                {realTimeCollabServices.map((item, i) => (
                   <li
                     key={i}
                     className="flex items-start py-4 border-t border-n-6"
@@ -110,7 +110,7 @@ const Services = () => {
                 </p>
 
                 <ul className="flex items-center justify-between">
-                  {brainwaveServicesIcons.map((icon, i) => (
+                  {realTimeCollabServicesIcons.map((icon, i) => (
                     <li
                       key={i}
                       className={`flex items-center justify-center rounded-2xl ${
