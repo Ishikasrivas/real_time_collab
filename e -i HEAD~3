@@ -1,0 +1,206 @@
+[33m7b5f3fc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'main' of https://github.com/Ishikasrivas/Gen-Ai abortsyes
+[33mab190da[m Fix: images
+[33mfad17ab[m Update and o c
+[33ma63e34a[m Update README.md
+[33ma9e2699[m hjfhjgkjhklh
+[33mec0133d[m Update README.md
+[33m99c4c38[m dfdfdfd
+[33m637e50e[m Initial commit
+[33ma0056ad[m Merge pull request #201 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.12.2
+[33m184ca22[m Merge pull request #202 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.6.1
+[33ma8a6501[m Merge pull request #203 from sanidhyy/dependabot/npm_and_yarn/vitejs/plugin-react-4.5.0
+[33mff82176[m build(deps-dev): bump @vitejs/plugin-react from 4.4.1 to 4.5.0
+[33md27b325[m build(deps): bump react-router-dom from 7.6.0 to 7.6.1
+[33m2ac9cf5[m build(deps): bump framer-motion from 12.12.1 to 12.12.2
+[33m1fd3bb7[m Merge pull request #200 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.12.1
+[33m56ae4fd[m build(deps): bump framer-motion from 12.10.5 to 12.12.1
+[33m3e0fc16[m Merge pull request #197 from sanidhyy/dependabot/npm_and_yarn/vite-6.3.5
+[33mb5ff32a[m Merge pull request #198 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.6.0
+[33m7ae82a5[m Merge pull request #199 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.10.5
+[33md1d5cd0[m build(deps): bump framer-motion from 12.9.4 to 12.10.5
+[33meaafb58[m build(deps): bump react-router-dom from 7.5.3 to 7.6.0
+[33m7738807[m build(deps-dev): bump vite from 6.3.4 to 6.3.5
+[33m623fa7a[m Merge pull request #194 from sanidhyy/dependabot/npm_and_yarn/typewriter-effect-2.22.0
+[33m957e0b4[m Merge pull request #196 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.9.4
+[33mc52e4a6[m Merge pull request #195 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.5.3
+[33m120c942[m build(deps): bump framer-motion from 12.9.2 to 12.9.4
+[33mded2b8f[m build(deps): bump react-router-dom from 7.5.2 to 7.5.3
+[33m5e5a1ab[m build(deps): bump typewriter-effect from 2.21.0 to 2.22.0
+[33md5b44fc[m Merge pull request #193 from sanidhyy/dependabot/npm_and_yarn/npm_and_yarn-de653eece3
+[33maed83a7[m build(deps-dev): bump vite from 6.3.3 to 6.3.4 in the npm_and_yarn group
+[33m8549152[m Merge pull request #190 from sanidhyy/dependabot/npm_and_yarn/eslint-plugin-react-refresh-0.4.20
+[33m2199c3e[m Merge pull request #191 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.9.2
+[33m6090718[m Merge pull request #192 from sanidhyy/dependabot/npm_and_yarn/vite-6.3.3
+[33mf863498[m build(deps-dev): bump vite from 6.3.2 to 6.3.3
+[33m061692a[m build(deps): bump framer-motion from 12.7.4 to 12.9.2
+[33m90ba9f2[m build(deps-dev): bump eslint-plugin-react-refresh from 0.4.19 to 0.4.20
+[33m19cff53[m Merge pull request #189 from sanidhyy/dependabot/npm_and_yarn/npm_and_yarn-7048c6d959
+[33m45fab66[m build(deps): bump the npm_and_yarn group with 2 updates
+[33m0f4db94[m Merge pull request #186 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.7.4
+[33md6b056a[m Merge pull request #185 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.5.1
+[33m2f03efa[m Merge pull request #187 from sanidhyy/dependabot/npm_and_yarn/vitejs/plugin-react-4.4.1
+[33mabfdb3b[m Merge pull request #188 from sanidhyy/dependabot/npm_and_yarn/vite-6.3.2
+[33m30a5d48[m build(deps-dev): bump vite from 6.2.6 to 6.3.2
+[33m3f6c730[m build(deps-dev): bump @vitejs/plugin-react from 4.3.4 to 4.4.1
+[33m87e9096[m build(deps): bump framer-motion from 12.6.5 to 12.7.4
+[33mef5a772[m build(deps): bump react-router-dom from 7.5.0 to 7.5.1
+[33mf89dc4a[m Merge pull request #184 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.6.5
+[33mbb8275d[m build(deps): bump framer-motion from 12.6.3 to 12.6.5
+[33m7794ec8[m Merge pull request #183 from sanidhyy/dependabot/npm_and_yarn/npm_and_yarn-b7c6efa8f1
+[33m30ef7be[m build(deps-dev): bump vite from 6.2.5 to 6.2.6 in the npm_and_yarn group
+[33mc800f7b[m Merge pull request #181 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.6.3
+[33mdf7e4e1[m Merge pull request #182 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.5.0
+[33mc099bc7[m build(deps): bump react-router-dom from 7.4.1 to 7.5.0
+[33m62cd6c5[m build(deps): bump framer-motion from 12.6.2 to 12.6.3
+[33m6b901ab[m Merge pull request #180 from sanidhyy/dependabot/npm_and_yarn/npm_and_yarn-2bd33993d4
+[33ma2ad7c7[m build(deps-dev): bump vite from 6.2.4 to 6.2.5 in the npm_and_yarn group
+[33m990fbb6[m Merge pull request #179 from sanidhyy/dependabot/npm_and_yarn/npm_and_yarn-8ec3883370
+[33m64d0e69[m build(deps-dev): bump vite from 6.2.3 to 6.2.4 in the npm_and_yarn group
+[33mfcc531e[m Merge pull request #177 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.6.2
+[33m71eb61b[m Merge pull request #178 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.4.1
+[33mfab886d[m build(deps): bump react-router-dom from 7.4.0 to 7.4.1
+[33mc33567e[m build(deps): bump framer-motion from 12.5.0 to 12.6.2
+[33m6ee96a0[m Merge pull request #176 from sanidhyy/dependabot/npm_and_yarn/npm_and_yarn-14f44f5325
+[33m2fb29d2[m build(deps-dev): bump vite from 6.2.2 to 6.2.3 in the npm_and_yarn group
+[33m70ad70d[m fix: footer formatting
+[33m91f436f[m Merge pull request #175 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.4.0
+[33mddae7d6[m Bump react-router-dom from 7.3.0 to 7.4.0
+[33m274923d[m Merge pull request #173 from sanidhyy/dependabot/npm_and_yarn/vite-6.2.2
+[33mb06900a[m Merge pull request #174 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.5.0
+[33ma9902f7[m Bump framer-motion from 12.4.10 to 12.5.0
+[33m1e8a171[m Bump vite from 6.2.1 to 6.2.2
+[33mc432981[m Merge pull request #169 from sanidhyy/dependabot/npm_and_yarn/vite-6.2.1
+[33m8100cfc[m Merge pull request #171 from sanidhyy/dependabot/npm_and_yarn/autoprefixer-10.4.21
+[33m5455947[m Merge pull request #170 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.4.10
+[33m4fa1a8f[m Merge pull request #172 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.3.0
+[33mdbfc48e[m Bump react-router-dom from 7.2.0 to 7.3.0
+[33mb6de92d[m Bump autoprefixer from 10.4.20 to 10.4.21
+[33m447b97f[m Bump framer-motion from 12.4.7 to 12.4.10
+[33m78ca78a[m Bump vite from 6.2.0 to 6.2.1
+[33m60e67f0[m Merge pull request #167 from sanidhyy/dependabot/npm_and_yarn/vite-6.2.0
+[33md5a5634[m Merge pull request #168 from sanidhyy/dependabot/npm_and_yarn/eslint-plugin-react-hooks-5.2.0
+[33m797c906[m Bump eslint-plugin-react-hooks from 5.1.0 to 5.2.0
+[33m79fce6f[m Bump vite from 6.1.1 to 6.2.0
+[33m4027811[m Merge pull request #163 from sanidhyy/dependabot/npm_and_yarn/postcss-8.5.3
+[33me6d1cc6[m Merge pull request #164 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.2.0
+[33mde05f6c[m Merge pull request #165 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.4.7
+[33m3798af2[m Merge pull request #166 from sanidhyy/dependabot/npm_and_yarn/vite-6.1.1
+[33mcf44eb2[m Bump vite from 6.1.0 to 6.1.1
+[33m5cc66af[m Bump framer-motion from 12.4.3 to 12.4.7
+[33ma44d652[m Bump react-router-dom from 7.1.5 to 7.2.0
+[33mca11390[m Bump postcss from 8.5.2 to 8.5.3
+[33m859fa78[m Merge pull request #161 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.4.3
+[33m488c2ef[m Merge pull request #162 from sanidhyy/dependabot/npm_and_yarn/postcss-8.5.2
+[33ma248d48[m Bump postcss from 8.5.1 to 8.5.2
+[33m3055d0d[m Bump framer-motion from 12.4.1 to 12.4.3
+[33m7d4ffe1[m Merge pull request #158 from sanidhyy/dependabot/npm_and_yarn/eslint-plugin-react-refresh-0.4.19
+[33mbf98140[m Merge pull request #159 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.4.1
+[33m685566d[m Merge pull request #160 from sanidhyy/dependabot/npm_and_yarn/vite-6.1.0
+[33m8296f11[m Bump vite from 6.0.11 to 6.1.0
+[33m2354b92[m Bump framer-motion from 12.0.6 to 12.4.1
+[33m6f5a59c[m Bump eslint-plugin-react-refresh from 0.4.18 to 0.4.19
+[33m46dd9de[m Merge pull request #156 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.0.6
+[33ma5a8785[m Merge pull request #157 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.1.5
+[33m1a2c744[m Bump react-router-dom from 7.1.3 to 7.1.5
+[33me72ce35[m Bump framer-motion from 12.0.5 to 12.0.6
+[33m4087ac6[m Merge pull request #154 from sanidhyy/dependabot/npm_and_yarn/framer-motion-12.0.5
+[33m82a1422[m Bump framer-motion from 11.18.1 to 12.0.5
+[33m025dfdc[m Merge pull request #153 from sanidhyy/dependabot/npm_and_yarn/npm_and_yarn-1bde0d632d
+[33m2156ff7[m Bump vite from 6.0.7 to 6.0.11 in the npm_and_yarn group
+[33ma8eb4ca[m Merge pull request #151 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.1.3
+[33mb3e77fd[m Merge pull request #152 from sanidhyy/dependabot/npm_and_yarn/framer-motion-11.18.1
+[33m5eeb08e[m Merge pull request #150 from sanidhyy/dependabot/npm_and_yarn/postcss-8.5.1
+[33m7afc679[m Bump framer-motion from 11.17.0 to 11.18.1
+[33m4a47a89[m Bump react-router-dom from 7.1.1 to 7.1.3
+[33m6071f90[m Bump postcss from 8.4.49 to 8.5.1
+[33md1ede8e[m Merge pull request #148 from sanidhyy/dependabot/npm_and_yarn/framer-motion-11.17.0
+[33m6c593f5[m Merge pull request #149 from sanidhyy/dependabot/npm_and_yarn/eslint-plugin-react-refresh-0.4.18
+[33m6d55f0c[m Bump eslint-plugin-react-refresh from 0.4.16 to 0.4.18
+[33m6336e80[m Bump framer-motion from 11.15.0 to 11.17.0
+[33m59ba0d7[m Merge pull request #147 from sanidhyy/dependabot/npm_and_yarn/vite-6.0.7
+[33m4e00dab[m Bump vite from 6.0.6 to 6.0.7
+[33mf31a066[m Merge pull request #146 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.1.1
+[33m0a86acf[m Merge pull request #145 from sanidhyy/dependabot/npm_and_yarn/vite-6.0.6
+[33ma018282[m Bump react-router-dom from 7.1.0 to 7.1.1
+[33m204c459[m Bump vite from 6.0.5 to 6.0.6
+[33m19ea82b[m Merge pull request #141 from sanidhyy/dependabot/npm_and_yarn/tailwindcss-3.4.17
+[33m135fb8b[m Bump tailwindcss from 3.4.16 to 3.4.17
+[33m1bb7b96[m Merge pull request #142 from sanidhyy/dependabot/npm_and_yarn/vite-6.0.5
+[33m9f53826[m Merge pull request #144 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.1.0
+[33mae20afb[m Merge pull request #143 from sanidhyy/dependabot/npm_and_yarn/framer-motion-11.15.0
+[33m88ebe3c[m Bump react-router-dom from 7.0.2 to 7.1.0
+[33m5def880[m Bump framer-motion from 11.14.4 to 11.15.0
+[33m37b7ab9[m Bump vite from 6.0.3 to 6.0.5
+[33m829d60f[m Merge pull request #139 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.0.2
+[33mea0c01f[m Merge pull request #138 from sanidhyy/dependabot/npm_and_yarn/eslint-plugin-react-refresh-0.4.16
+[33mdc7daff[m Merge pull request #140 from sanidhyy/dependabot/npm_and_yarn/framer-motion-11.14.4
+[33m86312cf[m Bump framer-motion from 11.13.1 to 11.14.4
+[33mf447714[m Bump react-router-dom from 7.0.1 to 7.0.2
+[33m69ec552[m Bump eslint-plugin-react-refresh from 0.4.14 to 0.4.16
+[33m424278c[m Merge pull request #134 from sanidhyy/dependabot/npm_and_yarn/vite-6.0.3
+[33m7461ea9[m Bump vite from 6.0.2 to 6.0.3
+[33m65268b2[m Merge pull request #133 from sanidhyy/dependabot/npm_and_yarn/eslint-plugin-react-hooks-5.1.0
+[33m48dfdb2[m Merge pull request #135 from sanidhyy/dependabot/npm_and_yarn/tailwindcss-3.4.16
+[33m082d875[m Merge pull request #136 from sanidhyy/dependabot/npm_and_yarn/framer-motion-11.13.1
+[33mcdedbbb[m Bump framer-motion from 11.12.0 to 11.13.1
+[33m1b00bdd[m Bump tailwindcss from 3.4.15 to 3.4.16
+[33mf146ae9[m Bump eslint-plugin-react-hooks from 5.0.0 to 5.1.0
+[33md14526e[m Merge pull request #132 from sanidhyy/dependabot/npm_and_yarn/vite-6.0.2
+[33m0d4ff88[m Bump vite from 5.4.11 to 6.0.2
+[33m34a73c4[m Merge pull request #129 from sanidhyy/dependabot/npm_and_yarn/framer-motion-11.12.0
+[33me3905e2[m Merge pull request #130 from sanidhyy/dependabot/npm_and_yarn/vitejs/plugin-react-4.3.4
+[33m6cbd571[m Bump @vitejs/plugin-react from 4.3.3 to 4.3.4
+[33me6d01ab[m Bump framer-motion from 11.11.17 to 11.12.0
+[33md5b3fb8[m Merge pull request #128 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-7.0.1
+[33m6920f89[m Bump react-router-dom from 6.28.0 to 7.0.1
+[33me01ba0a[m Merge pull request #124 from sanidhyy/dependabot/npm_and_yarn/postcss-8.4.49
+[33m9f055fe[m Bump postcss from 8.4.48 to 8.4.49
+[33m30005df[m Merge pull request #125 from sanidhyy/dependabot/npm_and_yarn/vite-5.4.11
+[33m6f06c41[m Bump vite from 5.4.10 to 5.4.11
+[33m852c06f[m Merge pull request #126 from sanidhyy/dependabot/npm_and_yarn/tailwindcss-3.4.15
+[33m58c28d1[m Merge pull request #127 from sanidhyy/dependabot/npm_and_yarn/framer-motion-11.11.17
+[33m54b5d6c[m Bump framer-motion from 11.11.11 to 11.11.17
+[33m361e764[m Bump tailwindcss from 3.4.14 to 3.4.15
+[33m73b1188[m Merge pull request #122 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-6.28.0
+[33mc80e666[m Merge pull request #123 from sanidhyy/dependabot/npm_and_yarn/postcss-8.4.48
+[33m5a2f8ff[m Bump postcss from 8.4.47 to 8.4.48
+[33m6111dec[m Bump react-router-dom from 6.27.0 to 6.28.0
+[33m51edebb[m Merge pull request #121 from sanidhyy/dependabot/npm_and_yarn/framer-motion-11.11.11
+[33m933b338[m Bump framer-motion from 11.11.10 to 11.11.11
+[33m0fb71fd[m Merge pull request #117 from sanidhyy/dependabot/npm_and_yarn/vite-5.4.10
+[33md465188[m Merge pull request #118 from sanidhyy/dependabot/npm_and_yarn/types/react-18.3.12
+[33me7c0bf7[m Merge pull request #119 from sanidhyy/dependabot/npm_and_yarn/framer-motion-11.11.10
+[33m4bd5755[m Merge pull request #120 from sanidhyy/dependabot/npm_and_yarn/eslint-plugin-react-refresh-0.4.14
+[33m1bebd83[m Bump eslint-plugin-react-refresh from 0.4.13 to 0.4.14
+[33m03a7c98[m Bump framer-motion from 11.11.9 to 11.11.10
+[33mbf3cda5[m Bump @types/react from 18.3.11 to 18.3.12
+[33m25f86a1[m Bump vite from 5.4.9 to 5.4.10
+[33m414b573[m Merge pull request #112 from sanidhyy/dependabot/npm_and_yarn/tailwindcss-3.4.14
+[33m53d57d9[m Bump tailwindcss from 3.4.13 to 3.4.14
+[33m6b68a08[m Merge pull request #116 from sanidhyy/dependabot/npm_and_yarn/eslint-plugin-react-refresh-0.4.13
+[33m5d74260[m Merge pull request #113 from sanidhyy/dependabot/npm_and_yarn/vitejs/plugin-react-4.3.3
+[33m6dc9677[m Merge pull request #114 from sanidhyy/dependabot/npm_and_yarn/vite-5.4.9
+[33md1c01f3[m Merge pull request #115 from sanidhyy/dependabot/npm_and_yarn/framer-motion-11.11.9
+[33me491f98[m Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.13
+[33mc94306b[m Bump framer-motion from 11.11.8 to 11.11.9
+[33m0da5e2e[m Bump vite from 5.4.8 to 5.4.9
+[33mee7cd4e[m Bump @vitejs/plugin-react from 4.3.2 to 4.3.3
+[33m4f2a29a[m Merge pull request #108 from sanidhyy/dependabot/npm_and_yarn/framer-motion-11.11.8
+[33mc63aa05[m Merge pull request #109 from sanidhyy/dependabot/npm_and_yarn/react-router-dom-6.27.0
+[33m12ce24b[m Merge pull request #110 from sanidhyy/dependabot/npm_and_yarn/types/react-dom-18.3.1
+[33mbbfd8ee[m Merge pull request #111 from sanidhyy/dependabot/npm_and_yarn/eslint-plugin-react-hooks-5.0.0
+[33m724ea02[m Bump eslint-plugin-react-hooks from 4.6.2 to 5.0.0
+[33mc0000aa[m Bump @types/react-dom from 18.3.0 to 18.3.1
+[33m85f7fc0[m Bump react-router-dom from 6.26.2 to 6.27.0
+[33m0b9bdd5[m Bump framer-motion from 11.11.1 to 11.11.8
+[33m6d8f59d[m Merge pull request #107 from sanidhyy/dependabot/npm_and_yarn/types/react-18.3.11
+[33m397e614[m Merge pull request #106 from sanidhyy/dependabot/npm_and_yarn/framer-motion-11.11.1
+[33ma133837[m Bump @types/react from 18.3.10 to 18.3.11
+[33m1712f7d[m Bump framer-motion from 11.9.0 to 11.11.1
+[33m47e47c3[m Merge pull request #105 from sanidhyy/dependabot/npm_and_yarn/tailwindcss-3.4.13
+[33mff4ee80[m Bump tailwindcss from 3.4.12 to 3.4.13
+[33m9dbc2f5[m Merge pull request #104 from sanidhyy/dependabot/npm_and_yarn/vite-5.4.8
+[33m6bd7813[m Merge pull request #103 from sanidhyy/dependabot/npm_and_yarn/vitejs/plugin-react-4.3.2
+[33m842e617[m Merge pull request #102 from sanidhyy/dependabot/npm_and_yarn/types/react-18.3.10
+[33me1fcf41[m Merge pull request #101 from sanidhyy/dependabot/npm_and_yarn/framer-motion-11.9.0
+[33m73d6e44[m Bump vite from 5.4.7 to 5.4.8
